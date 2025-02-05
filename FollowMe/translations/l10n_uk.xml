@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+<!--
+    See comment in modDesc.XML about how to make your own local translation file, that must be placed in folder [..]/modSettings/FS22_FollowMe/
+-->
+    <translationContributors>Kalderone</translationContributors>
+        <texts>
+    <!-- Елементи управління введеним -->
+        <text name="input_FOLLOW_INITIATE"             text="Ініціювати &amp; Обрати" />
+        <text name="input_FOLLOW_DISTANCE_1"           text="Змінити дистанцію +" />
+        <text name="input_FOLLOW_DISTANCE_2"           text="Змінити дистанцію -" />
+        <text name="input_FOLLOW_SIDE_OFFSET_1"        text="Змінити бічне зміщення +" />
+        <text name="input_FOLLOW_SIDE_OFFSET_2"        text="Змінити бічне зміщення -" />
+        <text name="input_FOLLOW_PAUSE_RESUME"         text="Пауза/Продовжити" />
+
+        <text name="input_FOLLOW_MARKER_TOGGLE_OFFSET" text="Маркер для зміни бічного зміщення" />
+
+        <text name="input_FOLLOW_CHASER_CHOOSE"        text="Ведений обирає іншого" />
+        <text name="input_FOLLOW_CHASER_DISTANCE_1"    text="Ведений: змінити дистанцію +" />
+        <text name="input_FOLLOW_CHASER_DISTANCE_2"    text="Ведений: змінити дистанцію -" />
+        <text name="input_FOLLOW_CHASER_SIDE_OFFSET_1" text="Ведений: змінити бічне зміщення +" />
+        <text name="input_FOLLOW_CHASER_SIDE_OFFSET_2" text="Ведений: змінити бічне зміщення -" />
+        <text name="input_FOLLOW_CHASER_PAUSE_RESUME"  text="Ведений: пауза/продовжити" />
+
+    <!-- Дії меню F1 -->
+        <text name="FOLLOW_INITIATE"                   text="Активувати веденого" />
+        <text name="FOLLOW_CHOOSEOTHER"                text="Змінити на іншого веденого" />
+        <text name="FOLLOW_SIDEOFFSET"                 text="Бічне зміщення для веденого" />
+        <text name="FOLLOW_DISTANCE"                   text="Дистанція до веденого" />
+        <text name="FOLLOW_PAUSE"                      text="Ведений, пауза" />
+        <text name="FOLLOW_RESUME"                     text="Ведений, Продовжити" />
+
+        <text name="FOLLOW_CHASER_CHOOSEOTHER"         text="Обрати іншого веденого" />
+        <text  name="FOLLOW_CHASER_SIDEOFFSET"          text="Ведений, Бокове зміщення" />
+        <text  name="FOLLOW_CHASER_DISTANCE"            text="Ведений, Відстань" />
+        <text  name="FOLLOW_CHASER_PAUSE"               text="Ведений, Пауза" />
+        <text  name="FOLLOW_CHASER_RESUME"              text="Ведений, Продовжити" />
+
+        <text  name="FOLLOW_MARKER_OFFSET_NORMAL"       text="Бокове зміщення Веденого: Нормальне" />
+        <text  name="FOLLOW_MARKER_OFFSET_DISABLED"     text="Бокове зміщення Веденого: Вимкнено" />
+        <text  name="FOLLOW_MARKER_OFFSET_REVERSED"     text="Бокове зміщення Веденого: Протилежне" />
+
+<!-- Екранний HUD -->
+        <text  name="FOLLOW_LEADER_SELECTED"            text="Слідкує за:" />
+        <text  name="FOLLOW_WAITINGCOLLISION"           text="Очікування через можливе зіткнення" />
+        <text  name="FOLLOW_DISTANCE_OFFSET"            text="Відстань: %.0f, Offset: %.1f" />
+        <text  name="FOLLOW_WAITING"                    text="Очікування / Пауза" />
+
+<!-- Інше -->
+        <text  name="FOLLOW_AIERROR_CHASER_STOPPED"     text="Ведений зупинений" />
+    </texts>
+</l10n>
+ 
